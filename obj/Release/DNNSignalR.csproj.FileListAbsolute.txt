@@ -1,0 +1,4 @@
+F:\websites\dnndev.me\bin\DNNSignalR.dll
+F:\websites\dnndev.me\bin\DNNSignalR.pdb
+F:\websites\dnndev.me\DesktopModules\DNNSignalR\obj\Release\DNNSignalR.dll
+F:\websites\dnndev.me\DesktopModules\DNNSignalR\obj\Release\DNNSignalR.pdb

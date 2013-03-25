@@ -1,0 +1,5 @@
+F:\websites\dnndev.me\bin\DNNSignalR.dll
+F:\websites\dnndev.me\bin\DNNSignalR.pdb
+F:\websites\dnndev.me\DesktopModules\DNNSignalR\obj\Debug\DNNSignalR.csprojResolveAssemblyReference.cache
+F:\websites\dnndev.me\DesktopModules\DNNSignalR\obj\Debug\DNNSignalR.dll
+F:\websites\dnndev.me\DesktopModules\DNNSignalR\obj\Debug\DNNSignalR.pdb

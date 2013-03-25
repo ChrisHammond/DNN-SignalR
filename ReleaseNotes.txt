@@ -1,0 +1,21 @@
+﻿<h3>DNNSignalR</h3>
+<p class="Contributor">
+	Christoc.com Software Solutions <br />
+	<a href="mailto:modules@christoc.com">modules@christoc.com</a><br />
+	<a href=http://www.christoc.com>http://www.christoc.com</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the DNNSignalR</h3>
+	<p class="Owner">
+		<b>Version 00.00.01</b><br /><br />
+	</p>
+	<p>This module is a sample module for DotNetNuke 7 using SignalR. It was developed by Chris Hammond from Christoc.com.</p>
+	
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>Initial release</li>
+
+	</ul>
+	
+</div>
