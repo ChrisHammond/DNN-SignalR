@@ -8,9 +8,9 @@
 
 <script type="text/javascript">
     $(function () {
-        var dnnHub = $.connection.chatHub;
+        var chatHub = $.connection.chatHub;
         // Declare a function on the chat hub so the server can invoke it
-        dnnHub.client.addMessage = function (message) {
+        chatHub.client.addMessage = function (message) {
             $('#messages').append('<li>' + message + '</li>');
         };
 
@@ -18,7 +18,7 @@
         $.connection.hub.start().done(function () {
             $("#linkSubmit").click(function () {
                 // Call the chat method on the server
-                dnnHub.server.send($('#msg').val());
+                chatHub.server.send($('#msg').val());
             });
         });
     });
