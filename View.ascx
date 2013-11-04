@@ -1,7 +1,7 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="View.ascx.cs" Inherits="Christoc.Modules.DNNSignalR.View" %>
 <%@ Register TagName="label" TagPrefix="dnn" Src="~/controls/labelcontrol.ascx" %>
 
-<script src="/desktopmodules/SignalRChat/Scripts/jquery.signalR-1.0.1.min.js" type="text/javascript"></script>
+<script src="/desktopmodules/DNNSignalR/Scripts/jquery.signalR-1.0.1.min.js" type="text/javascript"></script>
 <script type="text/javascript" src='<%= ResolveClientUrl("~/signalr/hubs") %>'></script>
 
 
